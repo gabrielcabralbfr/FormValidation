@@ -1,0 +1,16 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.nav-link {
+  text-transform: uppercase;
+}
+
+#volume-destination {
+  padding: 5px;
+  border: 1px solid #969696;
+  margin: 5px;
+}
