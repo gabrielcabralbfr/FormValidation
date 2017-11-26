@@ -4,6 +4,6 @@
 ```
 - HTML5
 - CSS/Bootstrap
-- JS/JQuery
+- Javascript
 ```
 
